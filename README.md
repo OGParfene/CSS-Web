@@ -1,2 +1,2 @@
-# Diseno-Web
-This repository is a place where you can find what are my Web Development projects that I am actually dooing. 
+# CSS-Web
+This project is about a personal page made by following an internet course and aplying all of my knowledge adquired on that course
